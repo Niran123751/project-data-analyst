@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+pandas
+matplotlib
+beautifulsoup4
+lxml
+scipy
+scikit-learn
